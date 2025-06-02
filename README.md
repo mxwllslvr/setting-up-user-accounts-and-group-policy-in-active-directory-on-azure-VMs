@@ -39,7 +39,7 @@ This guide walks you through establishing a user database and configuring Group 
 
 ### Connect to Domain Controller
 
-![Screenshot 2025-06-02 040553](https://github.com/user-attachments/assets/5d33fb6b-57a2-46a1-a71a-7957f7f68cf3)
+![Setting Up User Accounts and Group Policy in Active Directory on Azure VMs 1](https://github.com/user-attachments/assets/fd1b21e1-b79c-42cc-b726-4d8fff25cbe9)
 
 1. **Access DC-1**: Connect to the DC-1 virtual machine using mstsc with the jane_admin account (`mydomain.com\jane_admin`) and the corresponding password
 2. **Launch PowerShell ISE**: From the Start menu, search for "PowerShell ISE," right-click, and select "Run as Administrator"
